@@ -15,5 +15,6 @@ This fan was able to be controlled in speed by a potentiometer, and direction ei
 </ul>
 
 <h3> Schematic Diagram: </h3>
-![image](https://github.com/N-McClure/Gr12-Culminating_Fan/assets/64433966/ba7ae315-9988-4d42-8afa-182f242a9524)
+
+![image](https://github.com/N-McClure/Gr12-Culminating_Fan/assets/64433966/bd8437a1-8004-4af0-8f18-4d4c7c1b457f)
 
